@@ -1,7 +1,10 @@
+#Maven files
+target/
 
 #IDE files
 .classpath
 .project
+.settings
 
 # Compiled class file
 *.class
