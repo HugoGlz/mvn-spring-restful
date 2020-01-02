@@ -47,7 +47,7 @@ public class TestAPI {
        
         Greeting result = controller.greeting("Hugo");
         
-        assertThat(result.getContent()).isEqualTo("Hello, Hugo!");
+        assertThat(result.getContent()).isEqualTo("Hello, Jugo!");
 	}
 
 }
